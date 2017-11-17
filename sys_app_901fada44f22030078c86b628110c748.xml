@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="custom">1c1f29684f22030078c86b628110c70d</menu>
+        <name>custom</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_13157_custom</scope>
+        <scoped_administration>true</scoped_administration>
+        <short_description/>
+        <source>x_13157_custom</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2017-11-17 06:13:03</sys_created_on>
+        <sys_id>901fada44f22030078c86b628110c748</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>joe.dev</sys_updated_by>
+        <sys_updated_on>2017-11-17 06:38:15</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_13157_custom.user" name="x_13157_custom.user">941f29684f22030078c86b628110c710</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sush.chan</sys_created_by>
+        <sys_created_on>2017-11-17 06:13:03</sys_created_on>
+        <sys_id>a01fa9684f22030078c86b628110c779</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_13157_custom_table.x_13157_custom.user</sys_name>
+        <sys_package display_value="custom" source="x_13157_custom">901fada44f22030078c86b628110c748</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="custom">901fada44f22030078c86b628110c748</sys_scope>
+        <sys_security_acl display_value="x_13157_custom_table">a41fa9684f22030078c86b628110c776</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a01fa9684f22030078c86b628110c779</sys_update_name>
+        <sys_updated_by>sush.chan</sys_updated_by>
+        <sys_updated_on>2017-11-17 06:13:03</sys_updated_on>
+        <sys_user_role display_value="x_13157_custom.user" name="x_13157_custom.user">941f29684f22030078c86b628110c710</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
